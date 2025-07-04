@@ -63,4 +63,9 @@ Due to GitHub's 100MB file size limit, the trained model file `pytorch_model.bin
 👉 [Click here to download the model](https://drive.google.com/uc?export=download&id=1plxo7TuJjjTnylXzuyc_h9Ds7pOQyrIx)
 
 After downloading, place the file inside your project directory like this:
+final_trained_model/
+├── pytorch_model.bin 👈 put it here
+├── run_inference.py
+├── caption_generator.py
+...
 
