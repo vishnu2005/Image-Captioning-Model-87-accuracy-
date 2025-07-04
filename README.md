@@ -54,3 +54,13 @@ Clone the repo and run inference:
 git clone https://github.com/vishnu2005/Image-Captioning-Model-87-accuracy-.git
 cd Image-Captioning-Model-87-accuracy-
 python run_inference.py --image path/to/your/image.jpg
+```
+
+## 🧱 Download Trained Model
+
+Due to GitHub's 100MB file size limit, the trained model file `pytorch_model.bin` (912MB) is hosted externally.
+
+👉 [Click here to download the model](https://drive.google.com/uc?export=download&id=1plxo7TuJjjTnylXzuyc_h9Ds7pOQyrIx)
+
+After downloading, place the file inside your project directory like this:
+
